@@ -4,8 +4,9 @@
 
 <script>
 export default {
-  validate (data) {
-	  return data.params.id == 1;
-  }
+  validate(data) {
+    return data.params.id == 1;
+  },
+  layout: "users",
 };
 </script>

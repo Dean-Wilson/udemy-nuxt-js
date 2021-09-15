@@ -1,10 +1,12 @@
 <template>
-  <div>
+  <div class="container">
     <nuxt-link to="/users">Users</nuxt-link>
     <nuxt-link to="/products">Products</nuxt-link>
   </div>
 </template>
 
 <script>
-export default {};
+export default {
+	layout: "users",
+}
 </script>

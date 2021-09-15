@@ -1,6 +1,10 @@
 <template>
-	<div>
-		<nuxt-link to="/products/1">Product 1</nuxt-link>
-		<nuxt-link to="/products/2">Product 2</nuxt-link>
-	</div>
+  <div>
+	<h2>Products</h2>
+    <nuxt-link to="/products/1">Product 1</nuxt-link>
+    <nuxt-link to="/products/2">Product 2</nuxt-link>
+  </div>
 </template>
+
+<script>
+</script>
