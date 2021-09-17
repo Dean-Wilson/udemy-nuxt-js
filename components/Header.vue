@@ -4,12 +4,6 @@
 			<li class="nav__item">
 				<nuxt-link class="nav__link" to="/">Home</nuxt-link>
 			</li>
-			<li class="nav__item">
-				<nuxt-link class="nav__link" to="/users">Users</nuxt-link>
-			</li>
-			<li class="nav__item">
-				<nuxt-link class="nav__link" to="/products">Products</nuxt-link>
-			</li>
 		</ul>
 	</header>
 </template>

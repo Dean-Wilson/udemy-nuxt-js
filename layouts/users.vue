@@ -17,7 +17,4 @@ export default {
 </script>
 
 <style>
-	body {
-		font-family: arial;
-	}
 </style>
